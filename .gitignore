@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+banner.jpeg
+avatar.png
+.DS_Store
