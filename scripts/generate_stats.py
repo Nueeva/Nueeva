@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """Draw the profile README's stat graphics from the GitHub GraphQL API.
 
 No third-party services and no dependencies — standard library only.
@@ -89,8 +89,8 @@ def font_text():
 
 
 def font_head():
-    """Only the letters the section headings use."""
-    return face("jbmono-head.woff2", 600)
+    """Full latin bold mono for section headings."""
+    return face("jbmono-600.woff2", 600)
 
 WIDTH = 620            # every graphic shares one column width
 LEFT = 34              # shared left inset, so stacked blocks line up
@@ -467,7 +467,7 @@ def main():
     s = summarise(fetch(login, token))
     files = {"stats.svg": draw_stats(s), "streak.svg": draw_streak(s),
              "langs.svg": draw_langs(s), "year.svg": draw_year(s)}
-    for word in ("about", "stack", "projects", "stats", "about this page"):
+    for word in ("about", "stack", "projects", "stats", "connect", "about this page"):
         files[f"hd-{word.replace(' ', '-')}.svg"] = draw_heading(word)
 
     changed = [n for n, svg in files.items()
