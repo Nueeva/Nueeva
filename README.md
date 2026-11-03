@@ -34,70 +34,8 @@ Self-taught security researcher and software engineer with a deep passion for We
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-<div align="center">
-
-<a href="https://github.com/Nueeva/xssscope">
-  <img src="https://raw.githubusercontent.com/Nueeva/xssscope/main/assets/banner.svg" alt="xssscope banner" width="100%">
-</a>
-
-<p align="center">
-  <a href="https://github.com/Nueeva/xssscope/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-3fb950.svg?style=flat-square" alt="License MIT"></a>
-  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node-%3E%3D%2018-58a6ff.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node version"></a>
-  <img src="https://img.shields.io/badge/Dependencies-Zero-3fb950.svg?style=flat-square" alt="Zero Dependencies">
-  <img src="https://img.shields.io/badge/Type-Reflected%20XSS%20Scanner-f85149.svg?style=flat-square" alt="Reflected XSS Scanner">
-  <a href="https://github.com/Nueeva/xssscope/stargazers"><img src="https://img.shields.io/github/stars/Nueeva/xssscope?style=flat-square&color=e3b341" alt="GitHub Stars"></a>
-</p>
-
-</div>
-
-### 🔍 [xssscope](https://github.com/Nueeva/xssscope) — Reflected XSS Scanner with Context Detection
-> *Zero dependencies. Probe, classify, verify.*
-
-Most scanners fire arbitrary payload banks at every query param, causing false positives and wasted time. **xssscope** operates backwards:
-1. **Probe first:** Injects an inert canary to verify if reflection actually occurs.
-2. **Classify context:** Identifies the precise sink (element text, quoted/unquoted attribute, script string, or HTML comment).
-3. **Targeted payload:** Dispatches only the payload crafted for that exact breakout syntax.
-4. **Byte-exact verification:** Confirms execution only when returned unescaped and syntactically valid.
-
-<div align="center">
-  <a href="https://github.com/Nueeva/xssscope">
-    <img src="https://raw.githubusercontent.com/Nueeva/xssscope/main/assets/demo.svg" alt="xssscope demo" width="95%">
-  </a>
-</div>
-
-```bash
-# Quick run (zero npm install required)
-git clone https://github.com/Nueeva/xssscope.git
-node xssscope/bin/cli.js --target http://localhost:8080
-```
-
-👉 **[Explore the xssscope Repository & Documentation →](https://github.com/Nueeva/xssscope)**
-
----
-
-### 🛡️ [CTF-Toolkit](https://github.com/Nueeva/CTF-Toolkit) — Modular Terminal Framework for Security Labs
-
-<p align="left">
-  <a href="https://github.com/Nueeva/CTF-Toolkit"><img src="https://img.shields.io/badge/Python-3.10%2B-0d1117.svg?style=flat-square&logo=python&logoColor=3776AB" alt="Python 3.10+"></a>
-  <a href="https://github.com/Nueeva/CTF-Toolkit/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-0d1117.svg?style=flat-square&logoColor=3fb950" alt="License MIT"></a>
-  <img src="https://img.shields.io/badge/Architecture-Modular%20CLI-0d1117.svg?style=flat-square" alt="Modular CLI">
-  <img src="https://img.shields.io/badge/Domain-Crypto%20%7C%20BinEx%20%7C%20Web%20%7C%20DFIR-0d1117.svg?style=flat-square" alt="Domain">
-</p>
-
-Terminal-first CTF helper framework engineered for legal labs, rapid challenge analysis, and defensive triage. Features interactive domain modules:
-* **Crypto:** Classical cipher solvers, frequency analysis, and automated decoding routines.
-* **BinEx:** Architecture header inspection, string entropy analysis, and binary helpers.
-* **Web:** Offline payload crafting, URL/header parameter tamper utilities, and encoding matrix.
-* **DFIR:** Magic byte header verification, metadata extraction, and offline forensic analysis.
-
-```bash
-# Quick run
-git clone https://github.com/Nueeva/CTF-Toolkit.git
-python CTF-Toolkit/main.py
-```
-
-👉 **[Explore the CTF-Toolkit Repository →](https://github.com/Nueeva/CTF-Toolkit)**
-
+- 🔍 **[xssscope](https://github.com/Nueeva/xssscope)** — Reflected XSS scanner with context detection. Zero dependencies; probe, classify, verify.
+- 🛡️ **[CTF-Toolkit](https://github.com/Nueeva/CTF-Toolkit)** — Modular terminal framework for CTF & security labs: Crypto, BinEx, Web, DFIR.
 <br/>
 
 **Other Platforms:**
