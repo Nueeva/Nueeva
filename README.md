@@ -5,8 +5,6 @@
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 [portfolio](https://rifqi.apexsions.com) &nbsp;·&nbsp;
-[blog](https://rifqi.apexsions.com) &nbsp;·&nbsp;
-[resume](https://rifqi.apexsions.com) &nbsp;·&nbsp;
 [xssscope](https://github.com/Nueeva/xssscope) &nbsp;·&nbsp;
 [ctf-toolkit](https://github.com/Nueeva/CTF-Toolkit) &nbsp;·&nbsp;
 [clouvia](https://linktr.ee/die_de_nueva) &nbsp;·&nbsp;
@@ -28,7 +26,7 @@ Self-taught security researcher and software engineer with a deep passion for We
 - 🔬 **Active Research:** Developing zero-dependency offensive tooling (**[xssscope](https://github.com/Nueeva/xssscope)**) and modular CTF frameworks (**[CTF-Toolkit](https://github.com/Nueeva/CTF-Toolkit)**).
 - 💼 **Ecosystem:** Founder & Lead at **[Clouvia](https://linktr.ee/die_de_nueva)** (Cloud hosting & secure web infrastructure).
 - 🤝 **Engagement Status:** Open for **Web Security Audits, Pentesting Collaborations, and Vulnerability Research**.
-- 📬 **Direct Inquiries:** [rifqiariansyah123@gmail.com](mailto:rifqiariansyah123@gmail.com) &nbsp;·&nbsp; **Portfolio:** [rifqi.apexsions.com](https://rifqi.apexsions.com) &nbsp;·&nbsp; **Articles:** [rifqi.apexsions.com](https://rifqi.apexsions.com)
+- 📬 **Direct Inquiries:** [rifqiariansyah123@gmail.com](mailto:rifqiariansyah123@gmail.com)
 
 <br/>
 
@@ -37,10 +35,6 @@ Self-taught security researcher and software engineer with a deep passion for We
 - 🔍 **[xssscope](https://github.com/Nueeva/xssscope)** — Reflected XSS scanner with context detection. Zero dependencies; probe, classify, verify.
 - 🛡️ **[CTF-Toolkit](https://github.com/Nueeva/CTF-Toolkit)** — Modular terminal framework for CTF & security labs: Crypto, BinEx, Web, DFIR.
 <br/>
-
-**Other Platforms:**
-* **[Clouvia](https://linktr.ee/die_de_nueva)** &nbsp;·&nbsp; Cloud hosting, secure infrastructure, and web platforms.
-* **[rifqi.apexsions.com](https://rifqi.apexsions.com)** &nbsp;·&nbsp; Personal portfolio showcasing security projects, technical writeups, and full-stack systems.
 
 <br/>
 
@@ -105,16 +99,3 @@ Self-taught security researcher and software engineer with a deep passion for We
   <a href="https://t.me/nueva_inc"><img src="https://img.shields.io/badge/Telegram-nueva_inc-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
   <a href="mailto:rifqiariansyah123@gmail.com"><img src="https://img.shields.io/badge/Email-rifqiariansyah123@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
-
-<br/>
-
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
-
-Every graphic here is self-generated, not embedded from third-party hosting services.<br/>
-`ascii.svg` renders typewriter-animated monochrome ASCII branding with SMIL;<br/>
-the stat graphics and section headings are drawn by a [scheduled GitHub Action](.github/workflows/stats.yml)<br/>
-straight from the GitHub GraphQL API, once a day, committing only what changed.
-
-They animate via SMIL inside the SVG because GitHub strips scripts and inline CSS from READMEs.<br/>
-Because nothing loads from external analytics hosts, nothing can rate-limit, break, or go dark.<br/>
-The typeface is [JetBrains Mono](scripts/fonts), subsetted to character usage and inlined as base64.
