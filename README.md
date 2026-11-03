@@ -4,9 +4,9 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[portfolio](https://nueva.my.id) &nbsp;·&nbsp;
-[blog](https://blog.nueva.my.id) &nbsp;·&nbsp;
-[resume](https://nueva.my.id/resume) &nbsp;·&nbsp;
+[portfolio](https://rifqi.apexsions.com) &nbsp;·&nbsp;
+[blog](https://rifqi.apexsions.com) &nbsp;·&nbsp;
+[resume](https://rifqi.apexsions.com) &nbsp;·&nbsp;
 [xssscope](https://github.com/Nueeva/xssscope) &nbsp;·&nbsp;
 [ctf-toolkit](https://github.com/Nueeva/CTF-Toolkit) &nbsp;·&nbsp;
 [clouvia](https://linktr.ee/die_de_nueva) &nbsp;·&nbsp;
@@ -28,7 +28,7 @@ Self-taught security researcher and software engineer with a deep passion for We
 - 🔬 **Active Research:** Developing zero-dependency offensive tooling (**[xssscope](https://github.com/Nueeva/xssscope)**) and modular CTF frameworks (**[CTF-Toolkit](https://github.com/Nueeva/CTF-Toolkit)**).
 - 💼 **Ecosystem:** Founder & Lead at **[Clouvia](https://linktr.ee/die_de_nueva)** (Cloud hosting & secure web infrastructure).
 - 🤝 **Engagement Status:** Open for **Web Security Audits, Pentesting Collaborations, and Vulnerability Research**.
-- 📬 **Direct Inquiries:** [rifqiariansyah123@gmail.com](mailto:rifqiariansyah123@gmail.com) &nbsp;·&nbsp; **Portfolio:** [nueva.my.id](https://nueva.my.id) &nbsp;·&nbsp; **Articles:** [blog.nueva.my.id](https://blog.nueva.my.id)
+- 📬 **Direct Inquiries:** [rifqiariansyah123@gmail.com](mailto:rifqiariansyah123@gmail.com) &nbsp;·&nbsp; **Portfolio:** [rifqi.apexsions.com](https://rifqi.apexsions.com) &nbsp;·&nbsp; **Articles:** [rifqi.apexsions.com](https://rifqi.apexsions.com)
 
 <br/>
 
@@ -40,7 +40,7 @@ Self-taught security researcher and software engineer with a deep passion for We
 
 **Other Platforms:**
 * **[Clouvia](https://linktr.ee/die_de_nueva)** &nbsp;·&nbsp; Cloud hosting, secure infrastructure, and web platforms.
-* **[nueva.my.id](https://nueva.my.id)** &nbsp;·&nbsp; Personal portfolio showcasing security projects, technical writeups, and full-stack systems.
+* **[rifqi.apexsions.com](https://rifqi.apexsions.com)** &nbsp;·&nbsp; Personal portfolio showcasing security projects, technical writeups, and full-stack systems.
 
 <br/>
 
